@@ -1,0 +1,15 @@
+{
+  "name": "privacy-pump-demo",
+  "description": "Mobile-first devnet/localnet demo of Personal Vault and Private Multisig using mocks or public SDKs.",
+  "maturity": "Placeholder; implementation planned",
+  "network": "Mocks and localnet only",
+  "topics": [
+    "privacy-pump",
+    "solana",
+    "privacy",
+    "private-multisig",
+    "personal-vault",
+    "demo"
+  ],
+  "visibility": "public-after-verification"
+}
